@@ -17,5 +17,7 @@ public class ColorRtrv {
 		 System.out.println("second element: "+element); 
 		 element=list.get(3);
 		 System.out.println("third element: "+element);
+		
+		System.out.println("third element: "+element);
 }
 }
