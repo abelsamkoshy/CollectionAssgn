@@ -19,5 +19,7 @@ public class ColorRtrv {
 		 System.out.println("third element: "+element);
 		
 		System.out.println("third element: "+element);
+		System.out.println("third element: "+element);
 }
 }
+
