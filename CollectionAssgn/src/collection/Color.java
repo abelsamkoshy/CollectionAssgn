@@ -10,7 +10,8 @@ public class Color {
 		list.add("blue");
 		list.add("red");
 		
-			System.out.println(list); 
+			System.out.println(list);
+		        System.out.println(list); 
 	}
 	
 	}
